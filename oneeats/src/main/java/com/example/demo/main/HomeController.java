@@ -12,9 +12,8 @@ public class HomeController {
 
 	@RequestMapping(value = "/home.do")
 	public ModelAndView home(HttpServletRequest request) {
-		String viewName =  (String) request.getAttribute("viewName");
-		ModelAndView mav = new ModelAndView(viewName);
-		System.out.println(mav);
+		ModelAndView mav = new ModelAndVi
+		System.out.println(m
 		return mav;
 	}
 }
