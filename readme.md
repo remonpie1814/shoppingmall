@@ -1,11 +1,13 @@
-# 팀원
+# 원이츠 쇼핑몰 프로젝트
+
+## 팀원
 
 강민지, 최민아, 한예지, 황채연
 
 <br>
 <br>
 
-# 개요
+## 개요
 
 <img width="4768" alt="diagram (1)" src="https://github.com/remonpie1814/shoppingmall/assets/108705125/d649b00d-6106-4194-8d55-595d9bfdd1ca">
 
@@ -34,14 +36,14 @@
 <br>
 <br>
 
-# 기술스택
+## 기술스택
 
 <img width="3360" alt="diagram" src="https://github.com/remonpie1814/shoppingmall/assets/108705125/3ff97399-0efd-4b44-b1f3-75c7ac7b8982">
 
 <br>
 <br>
 
-# PPT
+## PPT
 
 <div style="font-size:16px">
 <ul>
